@@ -4,7 +4,7 @@ Provide setting.json like vscode
 
 ## How to do 
 
-Write setting.lua under the top of fold
+Write settings.lua under the top of fold
 
 like 
 ```lua

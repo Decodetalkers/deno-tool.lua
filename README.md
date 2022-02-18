@@ -9,11 +9,11 @@ Write setting.lua under the top of fold
 like 
 ```lua
 return {
-	deno = {
-		importMap = "./import_map.json",
-		config = "./deno.json",
-		unstable = true,
-	}
+  deno = {
+    importMap = "./import_map.json",
+    config = "./deno.json",
+    unstable = true,
+  }
 }
 ```
 
